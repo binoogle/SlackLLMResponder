@@ -1,0 +1,7 @@
+{
+  "LLM_API_KEY": "your-llm-api-key",
+  "LLM_MODEL": "your-llm-model",
+  "SYSTEM_PROMPT": "Try to make your answers as clear, understandable, and useful as possible. Answer in Japanese language. Don't answer in English. Please set the temperature to 0.1",
+  "LLM_ENDPOINT": "https://api.your-llm-provider.com/v1/completions",
+  "SLACK_BOT_TOKEN": "your-slack-bot-token"
+}
